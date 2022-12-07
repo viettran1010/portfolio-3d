@@ -12,6 +12,9 @@
     "three": "^0.128.0",
     "web-vitals": "^1.0.1"
   },
+    "engines" : { 
+    "node" : ">=16.0.0 <17.0.0"
+  },
   "scripts": {
     "start": "react-scripts --max_old_space_size=2560 start",
     "build": "react-scripts --max_old_space_size=2560 build",
