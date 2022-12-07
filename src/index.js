@@ -6,7 +6,7 @@ import './style.css'
 
 const scene = new THREE.Scene();
 
-//-------------CAMERA
+//-------------CAMERA 
 
 const camera = new THREE.PerspectiveCamera( 75, 
       window.innerWidth / window.innerHeight, 
